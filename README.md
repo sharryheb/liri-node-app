@@ -15,7 +15,7 @@
         4. do-what-it-says: this command does not take a query. Instead, it will read both a command and a query from the local "random.txt" file located in the same directory as the script. The file should contain one line, composed of a command from i-iii above and a query, separated by a comma.
     4. Results of the command/query will be logged to the console and also logged in the log.txt file, also local to the script. 
 
-4. Include screenshots, gifs or videos of the app functioning
+4. Video Demo: https://drive.google.com/file/d/1w1Ew00MNAj4ZYOdFgHh8-avmxMBT9ADk/view?usp=sharing
 
 5. Technologies: Node.js (with the node-spotify-api, axios, moment, and dotenv packages), Bands in Town Artist Events API.
 
