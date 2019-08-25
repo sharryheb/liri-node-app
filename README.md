@@ -19,4 +19,3 @@
 
 5. Technologies: Node.js (with the node-spotify-api, axios, moment, and dotenv packages), Bands in Town Artist Events API.
 
-6. My role in the app development: Developer.
