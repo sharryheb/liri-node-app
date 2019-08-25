@@ -6,7 +6,7 @@
 2. To retrieve the data that will power this app, it sends requests using the axios package to the Bands in Town, Spotify and OMDB APIs. 
 
 3. To run LIRI, run the following command, replacing the parts in "<>" accordingly:
-    1. open a command line prompt and type "node <command> <query>"
+    1. open a command line prompt and type "node `<command> <query>`"
     2. "command" can be any one of: concert-this, movie-this, spotify-this-song, or do-what-it-says.
     3. "query" is what you want to search for, based on the command you entered. 
         1. concert-this: your query should be a band/singer's name.
